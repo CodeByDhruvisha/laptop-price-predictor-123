@@ -1,9 +1,9 @@
 # laptop-price-predictor-123
 
-💻 Laptop Price Prediction App
-A Machine Learning web application built with Streamlit that predicts the price of a laptop based on its specifications such as brand, RAM, processor, storage, and more.
+💻 Laptop Price Prediction App :- 
+==> A Machine Learning web application built with Streamlit that predicts the price of a laptop based on its specifications such as brand, RAM, processor, storage, and more.
 
-🚀 Features 
+🚀 Features :- 
 Predict laptop prices instantly
 User-friendly interface using Streamlit
 Supports multiple laptop brands and configurations
@@ -39,11 +39,11 @@ Laptop-Price-Predictor/
 ├── 📦 requirements.txt     # Dependencies
 └── 📘 README.md            # Documentation
 
-🖥️ Usage
+🖥️ Usage :- 
 Enter laptop specifications in the sidebar/input fields
 Click on Predict Price
 The app will display the estimated laptop price 💰
 
-👨‍💻 Author
+👨‍💻 Author :- 
 Dhruvisha Vaghela
 GitHub: https://github.com/CodeByDhruvisha
