@@ -1,0 +1,62 @@
+[
+    {
+        "Company": "Dell",
+        "TypeName": "Notebook",
+        "Inches": 15.6,
+        "ScreenResolution": "1920x1080 Full HD IPS",
+        "Cpu": "Intel Core i5 8250U",
+        "Ram": "8GB",
+        "Memory": "256GB SSD",
+        "Gpu": "Intel UHD Graphics 620",
+        "OpSys": "Windows 10",
+        "Weight": "2.2kg"
+    },
+    {
+        "Company": "HP",
+        "TypeName": "Notebook",
+        "Inches": 14.0,
+        "ScreenResolution": "1920x1080 Full HD",
+        "Cpu": "Intel Core i5 7200U",
+        "Ram": "8GB",
+        "Memory": "1TB HDD",
+        "Gpu": "Intel HD Graphics 620",
+        "OpSys": "Windows 10",
+        "Weight": "1.8kg"
+    },
+    {
+        "Company": "Lenovo",
+        "TypeName": "Notebook",
+        "Inches": 15.6,
+        "ScreenResolution": "1920x1080 Full HD IPS",
+        "Cpu": "Intel Core i7 8550U",
+        "Ram": "16GB",
+        "Memory": "512GB SSD",
+        "Gpu": "Nvidia GeForce MX150",
+        "OpSys": "Windows 10",
+        "Weight": "1.9kg"
+    },
+    {
+        "Company": "Asus",
+        "TypeName": "Gaming",
+        "Inches": 15.6,
+        "ScreenResolution": "1920x1080 Full HD",
+        "Cpu": "Intel Core i7 7700HQ",
+        "Ram": "16GB",
+        "Memory": "1TB HDD + 256GB SSD",
+        "Gpu": "Nvidia GeForce GTX 1050",
+        "OpSys": "Windows 10",
+        "Weight": "2.5kg"
+    },
+    {
+        "Company": "Apple",
+        "TypeName": "Ultrabook",
+        "Inches": 13.3,
+        "ScreenResolution": "2560x1600 Retina",
+        "Cpu": "Intel Core i5 8250U",
+        "Ram": "8GB",
+        "Memory": "256GB SSD",
+        "Gpu": "Intel UHD Graphics 617",
+        "OpSys": "macOS",
+        "Weight": "1.37kg"
+    }
+]
