@@ -44,7 +44,7 @@ The following algorithms were explored and evaluated:
 bash
 Laptop-Price-Predictor/
 │
-├── app.py                # Streamlit application
+├── frontend.py           # Streamlit application
 ├── model.pkl             # Trained machine learning model
 ├── data.csv              # Dataset used for training
 ├── requirements.txt      # Project dependencies
